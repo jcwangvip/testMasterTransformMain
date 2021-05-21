@@ -20,3 +20,6 @@ git merge master
 
 推送最新代码,这里需要输入远程仓库登录信息，用的是用户名
 git push
+
+删除远程分支master
+git push origin --delete master
